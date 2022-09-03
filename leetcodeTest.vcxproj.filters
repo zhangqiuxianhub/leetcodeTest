@@ -18,5 +18,19 @@
     <ClCompile Include="Main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HW220903StringDeals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HW220903VectorDeals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HW220903StringDeals.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HW220903VectorDeals.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -60,23 +60,23 @@ inline std::vector<int> ReadVector(int size)
     return numbers;
 }
 
-int main()
-{
-    //int packsCount = ReadInt();
-    // vector<int> packs = ReadVector(packsCount);
-    // int goodsCount = ReadInt();
-    // vector<int> goods = ReadVector(goodsCount);
-
-    int packsCount = 3;
-    vector<int> packs = { 4,1,3 };
-    int goodsCount = 4;
-    vector<int> goods = { 3,2,5,0,3 };
-
-    Solution solu;
-    std::cout << solu.FindMaxDeliveryExpress(packs, goods);
-
-    return 0;
-}
+//int main()
+//{
+//    //int packsCount = ReadInt();
+//    // vector<int> packs = ReadVector(packsCount);
+//    // int goodsCount = ReadInt();
+//    // vector<int> goods = ReadVector(goodsCount);
+//
+//    int packsCount = 3;
+//    vector<int> packs = { 4,1,3 };
+//    int goodsCount = 4;
+//    vector<int> goods = { 3,2,5,0,3 };
+//
+//    Solution solu;
+//    std::cout << solu.FindMaxDeliveryExpress(packs, goods);
+//
+//    return 0;
+//}
 
 //////////////////////////////////////////////////////////////////
 
